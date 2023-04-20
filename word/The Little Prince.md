@@ -46,3 +46,7 @@ astonishment 惊讶
 
 indulgenty 放纵
 exhausted 精疲力竭的
+
+
+## Chapter 3
+irritated 恼怒的
