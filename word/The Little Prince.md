@@ -50,3 +50,20 @@ exhausted 精疲力竭的
 
 ## Chapter 3
 irritated 恼怒的
+
+### At that moment I caught a gleam of light in the impenetrable mystery of his presence; and I demanded, abruptly:
+
+impenetrable 坚不可摧的
+mystery 神秘
+sank into a reverie 陷入遐想
+curiosity 好奇心
+
+## After a reflective silence 
+
+shocked 震惊
+
+## Chapter 4
+speculates 推测
+asteroid 小行星
+telescope 望远镜
+astronomer 天文学家
