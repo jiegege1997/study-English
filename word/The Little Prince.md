@@ -67,3 +67,16 @@ speculates 推测
 asteroid 小行星
 telescope 望远镜
 astronomer 天文学家
+
+exclaim 惊呼
+geraniums 天竺葵
+doves 鸽子
+
+frequently 频繁的
+compartments 车厢
+cramped 狭窄
+stuffy 闷
+Inevitably 不可避免的
+
+## Chapter 5
+catastrophe 灾难
