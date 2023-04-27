@@ -80,3 +80,14 @@ Inevitably 不可避免的
 
 ## Chapter 5
 catastrophe 灾难
+
+### Then this little seed will stretch itself and begin-- timidly at first-- to push a charming little sprig inoffensively upward toward the sun.
+
+timidly 胆怯的
+charming 迷人的
+inoffensively 无害的
+
+radish  萝卜
+carrot 胡萝卜
+
+tedious 乏味的
